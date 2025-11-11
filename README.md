@@ -46,6 +46,6 @@ If you find any issues or have suggestions for improvements, feel free to open a
 <h5>The output :</h5>
 <p align="center">
 <a href="https://github.com/wissamn19/Create_GIF_Python">
-  <img src="C:\Users\Hp\.vscode\python\myfirstgif.gif" alt="Create GIF with Python" width="500">
+  <img src="myfirstgif.gif" alt="Create GIF with Python" width="300">
 </a>  
 </p>
